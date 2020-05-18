@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="MixerGroup" id="{b677936c-19ee-46f2-8735-0ce65c289a0e}">
+		<property name="name">
+			<value>Esprit</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{077b89f6-dec9-4703-883f-9efcda44872d}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{3a87e42a-7c59-46cb-a129-68c8b0de9991}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{3f7c04bb-d7bf-4114-a06a-49c45a1658c8}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{077b89f6-dec9-4703-883f-9efcda44872d}">
+		<relationship name="effects">
+			<destination>{db25f448-97b0-4736-960a-55bcee903df3}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{3a87e42a-7c59-46cb-a129-68c8b0de9991}" />
+	<object class="MixerBusFader" id="{db25f448-97b0-4736-960a-55bcee903df3}" />
+</objects>

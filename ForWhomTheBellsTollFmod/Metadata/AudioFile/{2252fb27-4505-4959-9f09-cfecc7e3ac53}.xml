@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{2252fb27-4505-4959-9f09-cfecc7e3ac53}">
+		<property name="assetPath">
+			<value>AMB_Bells_Couche_Esprit2.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>61.202666666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dc1cc01d-b747-46e0-8f79-c2105271ff07}</destination>
+		</relationship>
+	</object>
+</objects>
