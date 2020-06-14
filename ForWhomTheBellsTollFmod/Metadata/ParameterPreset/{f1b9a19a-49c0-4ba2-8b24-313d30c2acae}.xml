@@ -16,13 +16,15 @@
 			<value>2</value>
 		</property>
 		<property name="maximum">
-			<value>4</value>
+			<value>6</value>
 		</property>
 		<property name="enumerationLabels">
+			<value>0 Esprit</value>
 			<value>1 Esprit</value>
 			<value>2 Esprit</value>
 			<value>3 Esprit</value>
 			<value>4 Esprit</value>
+			<value>5 Esprit</value>
 		</property>
 		<property name="initialValue">
 			<value>0</value>
