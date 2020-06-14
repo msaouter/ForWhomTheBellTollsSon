@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{4192df53-30c3-4d96-a484-a72ec6903a48}">
+		<property name="name">
+			<value>Apaisement</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b1600501-8571-494f-959f-067beb4ee445}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{75ebb627-7278-4975-b101-d9797118fc69}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{75ebb627-7278-4975-b101-d9797118fc69}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
