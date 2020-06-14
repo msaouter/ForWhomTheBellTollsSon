@@ -100,6 +100,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{ef025c5a-0c08-424e-b32a-d9737386263e}">
+		<property name="volume">
+			<value>-10</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -137,7 +140,7 @@
 	<object class="MixerBusFader" id="{3ad21f64-a1f2-4a57-be43-182c7fc49e73}" />
 	<object class="AutomationPoint" id="{10c5b7a8-a57e-4931-a11e-7a8198e8fd08}">
 		<property name="position">
-			<value>72</value>
+			<value>52</value>
 		</property>
 		<property name="value">
 			<value>1</value>
