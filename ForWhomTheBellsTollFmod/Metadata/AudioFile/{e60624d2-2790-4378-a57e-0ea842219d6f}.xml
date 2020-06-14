@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{e60624d2-2790-4378-a57e-0ea842219d6f}">
+		<property name="assetPath">
+			<value>Esprit_Mechant_Final.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>56.872624999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dc1cc01d-b747-46e0-8f79-c2105271ff07}</destination>
+		</relationship>
+	</object>
+</objects>
