@@ -92,11 +92,17 @@
 		<property name="length">
 			<value>597.57600000000002</value>
 		</property>
+		<property name="looping">
+			<value>true</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{bb6082d5-65ce-4b90-80ff-b657b62fd2eb}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{0f6056ae-c838-4b71-a3c2-bd651cf9c89b}">
+		<property name="volume">
+			<value>-3.5</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
