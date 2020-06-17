@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.00.00">
-	<object class="AudioFile" id="{2eac2722-2a1b-4bab-af8d-94db30127fd6}">
+	<object class="AudioFile" id="{55d17621-a50c-48de-bdeb-3edcdf318ec5}">
 		<property name="assetPath">
-			<value>Esprit_Apaisé7_INVERT.wav</value>
+			<value>Esprit_Erreur2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>4.6030625000000001</value>
+			<value>3.3338958333333335</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{dc1cc01d-b747-46e0-8f79-c2105271ff07}</destination>
